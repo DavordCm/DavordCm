@@ -32,14 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
 </p>
 
-
----
-
-### 📊 GitHub Stats
-
-![DavordCm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavordCm&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavordCm&layout=compact&theme=tokyonight)
-
 ---
 
 ### 💬 Favorite Quote
@@ -50,5 +42,3 @@
 ### 🌐 Connect with Me
 
 - LinkedIn: [linkedin.com/in/davordcm](https://www.linkedin.com/in/davor-polleri-llalleri-1b11ba225/)
-
-
